@@ -18,6 +18,7 @@ if(!isset($_SESSION['correo'])){
 <div class="contenedor">
 
     <h2>Bienvenido</h2>
+    <h2> Primer cambio</h2> 
 
     <h3><?php echo $_SESSION['nombre']; ?></h3>
 
