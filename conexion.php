@@ -10,3 +10,4 @@ if(!$conexion){
     die("Error de conexión");
 }
 ?>
+//comentario//
