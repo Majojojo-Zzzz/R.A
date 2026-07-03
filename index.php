@@ -12,6 +12,7 @@
 <div class="contenedor">
 
     <h2>Iniciar Sesión</h2>
+    <h2> Hola </h2>
 
     <form action="validar.php" method="POST">
 
